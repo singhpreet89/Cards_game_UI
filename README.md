@@ -1,12 +1,12 @@
 # Cards game UI
 <p align="center">
-	<a href="https://forthebadge.com" alt="MADE WITH: VUE">
+	<a href="https://vuejs.org/" alt="MADE WITH: VUE">
 		<img src="https://forthebadge.com/images/badges/made-with-vue.svg" />
 	</a>
 </p>
 <p align="center">
-	<a href="#" alt="Powered by: Node 14.1.0 ">
-        <img src="https://badgen.net/badge/Powered%20by/Node%2014.1.0/43853D" />
+	<a href="https://nodejs.org/en/" alt="Powered by: Node v14.1.0">
+        <img src="https://badgen.net/badge/Powered%20by/Node%20v14.1.0/43853D" />
     </a>
 	<a href="https://opensource.org/licenses/MIT" alt="License: MIT">
 		<img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
